@@ -1,0 +1,10 @@
+{
+    "token": "discord-token-here",
+    "TwitterOAuth1": "twitter-oauth-1",
+    "TwitterOAuth2": "twitter-oauth-2",
+    "TwitterToken1": "twitter-token-1",
+    "TwitterToken2": "twitter-token-2",
+    "db_params": "database-parameter",
+    "twitter_url": "https://twitter.com/youraccountnamehere/status/",
+    "twitter_id": "00000000"
+}
